@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color: #4CAF50; font-size: 1.4rem; font-weight: 600;">
-  Web Developer | ReactJS | Java | SQL | WordPress
+  SDE | REACTJS | NEXTJS | AWS 
 </h3>
 
 <hr style="border: 1px solid #ddd;">
