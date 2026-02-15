@@ -49,9 +49,9 @@
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Key Personal Projects
 
-### 🔹 Forever Frontend  
+### 🔹 Forever FullStack  
 🌐 Live: https://forever-frontend-pi-sand.vercel.app/
 
 - Modern responsive frontend application
@@ -69,16 +69,6 @@
 - Designed as a scalable full-stack system
 
 > (Repository available upon request)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-</p>
 
 ---
 
