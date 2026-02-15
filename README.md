@@ -1,34 +1,80 @@
-<h1 align="center" style="color: #FF6600; font-size: 2.2rem; font-weight: bold;">
-  Hey, I'm Madhavan M! 👋
-</h1>
+<h1 align="center">Hi 👋, I'm Madhavan M</h1>
+<h3 align="center">Full Stack Developer | React • Next.js • Node • AWS</h3>
 
-<h3 align="center" style="color: #4CAF50; font-size: 1.4rem; font-weight: 600;">
-  SDE | REACTJS | NEXTJS | AWS 
-</h3>
+---
 
-<hr style="border: 1px solid #ddd;">
+## 🚀 About Me
 
-<h2 style="color: #3498db; font-size: 1.6rem; font-weight: 600;">🛠️ Tech Stack</h2>
-<ul style="font-size: 1rem; color: #444;">
-  <li><b>Frontend:</b> ReactJS, Tailwind, Bootstrap</li>
-  <li><b>Backend:</b> Node.js, Express, Spring Boot</li>
-  <li><b>Database:</b> MySQL, MongoDB</li>
-  <li><b>Other:</b> WordPress, Git, REST APIs</li>
-</ul>
+- 💼 Software Developer at Incresco Technology Solutions
+- ⚡ 1+ year experience in building production web apps
+- 🌐 Strong in Frontend + Backend integration
+- ☁️ Learning Cloud & Deployment (AWS)
+- 🧩 Solved 70+ DSA problems
 
-<hr style="border: 1px solid #ddd;">
+---
 
-<h2 style="color: #3498db; font-size: 1.6rem; font-weight: 600;">🌐 Connect</h2>
-<ul style="font-size: 1rem; color: #444;">
-  <li>📌 <a href="https://leetcode.com/u/Madhavan09072003/" style="color: #e67e22;">LeetCode</a></li>
-  <li>📌 <a href="https://www.geeksforgeeks.org/user/madhavan06qdl/" style="color: #e67e22;">GeeksforGeeks</a></li>
-  <li>📌 <a href="https://www.naukri.com/code360/profile/f6a34031-d660-4793-908d-517310126a69" style="color: #e67e22;">Code Ninjas</a></li>
-  <li>📌 <a href="https://www.linkedin.com/in/madhavan-m07/" style="color: #e67e22;">LinkedIn</a></li>
-</ul>
+## 🧰 My Tech Toolbox
 
-<hr style="border: 1px solid #ddd;">
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,bootstrap" />
+</p>
 
-<ul style="font-size: 1rem; color: #444;">
-  <li><b>1+ year</b> in <b>ReactJS, Java, SQL & WordPress</b></li>
-  <li>Skilled in <b>MERN, Spring Boot, DSA</b></li>
-</ul>
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</p>
+
+### Database & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,aws" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+## 💼 Work Experience
+
+### Incresco Technology Solutions
+
+- Developed React dashboards and reusable components
+- Integrated REST APIs with backend services
+- Worked on WordPress custom themes & plugins
+- Improved page load performance
+- Handled client requirements & deployments
+
+---
+
+## 🚀 Key Projects
+
+### 🔹 WikiChain
+- Blockchain-based Wikipedia platform
+- React + Ethereum
+- Smart contract validation
+
+### 🔹 MERN Job Portal
+- Full stack job application system
+- Auth, roles, admin dashboard
+- MongoDB + Express + React + Node
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- LeetCode: https://leetcode.com/u/Madhavan09072003/
+- LinkedIn: https://www.linkedin.com/in/madhavan-m07/
+- GFG: https://www.geeksforgeeks.org/user/madhavan06qdl/
