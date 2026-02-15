@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 💼 Software Engineer I at Incresco Technology Solutions
-- ⚡ 2 year experience building scalable web applications
+- ⚡ 2 years experience building scalable web applications
 - 🌐 Strong in frontend–backend integration
 - ☁️ Experience deploying applications on Vercel & AWS
 - 🧩 Solved 70+ DSA problems
