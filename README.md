@@ -9,7 +9,7 @@
 - ⚡ 2 years experience building scalable web applications
 - 🌐 Strong in frontend–backend integration
 - ☁️ Experience deploying applications on Vercel & AWS
-- 🧩 Solved 70+ DSA problems
+- 🧩 Focusing on solving real world problems
 
 ---
 
