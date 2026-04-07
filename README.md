@@ -5,8 +5,7 @@
 
 ## 🚀 About Me
 
-- 💼 Software Engineer I at Incresco Technology Solutions  
-- 💼 Former Web Developer at Zinavo Pvt Ltd  
+- 💼 Software Engineer I at Incresco Technology Solutions   
 - ⚡ 2 years of experience building scalable web applications  
 - 🌐 Strong in frontend–backend integration  
 - ☁️ Experience deploying applications on Vercel & AWS  
